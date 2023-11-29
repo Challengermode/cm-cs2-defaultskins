@@ -1,0 +1,12 @@
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/DefaultSkins.csproj.AssemblyReference.cache
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/DefaultSkins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/DefaultSkins.AssemblyInfoInputs.cache
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/DefaultSkins.AssemblyInfo.cs
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/DefaultSkins.csproj.CoreCompileInputs.cache
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/bin/Debug/net7.0/DefaultSkins.deps.json
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/bin/Debug/net7.0/DefaultSkins.dll
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/bin/Debug/net7.0/DefaultSkins.pdb
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/DefaultSkins.dll
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/refint/DefaultSkins.dll
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/DefaultSkins.pdb
+/Users/chte/Code/cm-cs2/CMod/DefaultSkins/obj/Debug/net7.0/ref/DefaultSkins.dll
