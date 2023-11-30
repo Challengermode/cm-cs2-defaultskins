@@ -1,0 +1,13 @@
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore .vs directory
+.vs/
+
+# Ignore project bin folders
+**/bin/
+
+# Ignore project obj folders
+**/obj/
+
+
