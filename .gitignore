@@ -5,9 +5,11 @@
 .vs/
 
 # Ignore project bin folders
+bin/
 **/bin/
 
 # Ignore project obj folders
+obj/
 **/obj/
 
 
