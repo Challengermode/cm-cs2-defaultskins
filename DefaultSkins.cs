@@ -54,8 +54,6 @@ public class DefaultSkins : BasePlugin
         {
             SetModel(player.PlayerPawn.Value.Handle, ModelPathTmPhoenix);
         }
-        Console.WriteLine($"Setting model");
-
         return HookResult.Continue;
     }
 
