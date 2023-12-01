@@ -46,8 +46,7 @@ public class DefaultSkins : BasePlugin
             || !player.IsValid
             || player.PlayerPawn == null
             || !player.PlayerPawn.IsValid
-            || player.PlayerPawn.Value == null
-            || player.PlayerPawn.Value.Handle == 0)
+            || player.PlayerPawn.Value == null)
         {
             return HookResult.Continue;
         }
