@@ -5,13 +5,13 @@ cm-cs2-defaultskins is a simple but useful plugin for CS2 based on the awesome C
 Feel free to contribute and maintain it. It is intended to be light weight.
 
 # Update CCS to latest version
-'''dotnet add package CounterStrikeSharp.API -v x.x.xx´´´
+```dotnet add package CounterStrikeSharp.API -v x.x.xx```
 
 # Build
-´´´dotnet build´´´
+```dotnet build```
 
 # Install on server
-Copy .dll file from /bin/debug and place it in addons/CounterstrikeSharp/Plugins/DefaultSkins/DefaultSkins.dll
+Copy .dll file from /bin/debug and place it in cs2/addons/CounterstrikeSharp/Plugins/DefaultSkins/DefaultSkins.dll
 
 # Credits
 * Plugin Framework: CounterStrikeSharp by roflmuffin
