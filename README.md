@@ -11,7 +11,7 @@ Feel free to contribute and maintain it. It is intended to be light weight.
 ```dotnet build```
 
 # Install on server
-Copy .dll file from /bin/debug and place it in cs2/addons/CounterstrikeSharp/Plugins/DefaultSkins/DefaultSkins.dll
+Copy .dll file from ```/bin/debug``` and place it in ```cs2/addons/CounterstrikeSharp/Plugins/DefaultSkins/DefaultSkins.dll```
 
 # Credits
 * Plugin Framework: CounterStrikeSharp by roflmuffin
