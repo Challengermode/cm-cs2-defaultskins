@@ -2,7 +2,10 @@
 
 DefaultSkins is a simple but useful plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin. Sets player models to default skin for competitive play.
 
-Feel free to contribute and maintain it. It is intended to be light weight.
+It also serves as example code for the community on how to use SetModel. Feel free to contribute and maintain it. It is intended to be light weight.
+
+# Valve Server Guidelines
+Make sure to read and comply with the [Server guidelines](https://blog.counter-strike.net/index.php/server_guidelines/) when using SetModel.
 
 # Bump CCS version
 ```dotnet add package CounterStrikeSharp.API -v x.x.xx```
