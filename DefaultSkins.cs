@@ -13,7 +13,7 @@ public class DefaultSkins : BasePlugin
 
     public static readonly string ModelPathCtmHeavy = "characters\\models\\ctm_heavy\\ctm_heavy.vmdl";
     public static readonly string ModelPathCtmSas = "characters\\models\\ctm_sas\\ctm_sas.vmdl";
-    public static readonly string ModelPathTmHeavy = "characters\\models\\tm_heavy\\tm_phoenix_heavy.vmdl";
+    public static readonly string ModelPathTmHeavy = "characters\\models\\tm_phoenix_heavy\\tm_phoenix_heavy.vmdl";
     public static readonly string ModelPathTmPhoenix = "characters\\models\\tm_phoenix\\tm_phoenix.vmdl";
 
 
