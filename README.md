@@ -4,7 +4,7 @@ DefaultSkins is a simple but useful plugin for CS2 based on the awesome CounterS
 
 Feel free to contribute and maintain it. It is intended to be light weight.
 
-# Update CCS to latest version
+# Bump CCS version
 ```dotnet add package CounterStrikeSharp.API -v x.x.xx```
 
 # Build
