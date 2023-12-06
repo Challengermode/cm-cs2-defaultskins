@@ -53,6 +53,7 @@ public class DefaultSkins : BasePlugin
 
         try
         {
+            // TODO: Server crash if player connects, mp_swapteams and reconnect
             if ((CsTeam)player.TeamNum == CsTeam.CounterTerrorist)
             {
                 SetModelNextServerFrame(player.PlayerPawn.Value, ModelPathCtmSas);
