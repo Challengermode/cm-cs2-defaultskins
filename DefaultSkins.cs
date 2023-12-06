@@ -46,14 +46,17 @@ public class DefaultSkins : BasePlugin
             || !player.IsValid
             || player.PlayerPawn == null
             || !player.PlayerPawn.IsValid
-            || player.PlayerPawn.Value == null)
+            || player.PlayerPawn.Value == null
+            || !player.PlayerPawn.Value.IsValid)
         {
             return HookResult.Continue;
         }
 
         try
         {
-            // TODO: Server crash if player connects, mp_swapteams and reconnect
+            // TODO: Server crash if player connects, mp_swapteams and reconnect       
+            CsTeam team = player.PendingTeamNum != player.TeamNum ? (CsTeam)player.PendingTeamNum : (CsTeam)player.TeamNum;
+
             if ((CsTeam)player.TeamNum == CsTeam.CounterTerrorist)
             {
                 SetModelNextServerFrame(player.PlayerPawn.Value, ModelPathCtmSas);
