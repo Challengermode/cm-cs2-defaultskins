@@ -14,7 +14,7 @@ Make sure to read and comply with the [Server guidelines](https://blog.counter-s
 ```dotnet build```
 
 # Install on server
-Copy .dll file from ```/bin/debug/net7.0``` and place it in ```cs2/addons/CounterstrikeSharp/Plugins/DefaultSkins/DefaultSkins.dll```
+Copy .dll file from ```/bin/debug/net8.0``` and place it in ```cs2/addons/CounterstrikeSharp/Plugins/DefaultSkins/DefaultSkins.dll```
 
 # Credits
 * Plugin Framework: CounterStrikeSharp by roflmuffin
