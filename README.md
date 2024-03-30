@@ -19,6 +19,7 @@ Make sure to read and comply with the [Server guidelines](https://blog.counter-s
 
 # How to use
 ```cm_default_skins 1``` to enable and ```cm_default_skins 0``` to disable the default skin enforcement.
+
 ```cm_heavy_model 1``` if you want to force heavy models on all of the players and ```cm_heavy_model 0``` stop using heavy models
 
 # Credits
