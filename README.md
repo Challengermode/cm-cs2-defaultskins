@@ -13,8 +13,13 @@ Make sure to read and comply with the [Server guidelines](https://blog.counter-s
 # Build
 ```dotnet build```
 
-# Install on server
-Copy .dll file from ```/bin/debug/net8.0``` and place it in ```cs2/addons/CounterstrikeSharp/Plugins/DefaultSkins/DefaultSkins.dll```
+# Install steps
+1. Install CounterStrikeSharp and Metamod on server
+2. Copy .dll file from ```/bin/debug/net8.0``` and place it in ```cs2/addons/CounterstrikeSharp/Plugins/DefaultSkins/DefaultSkins.dll```
+
+# How to use
+```cm_default_skins 1``` to enable and ```cm_default_skins 0``` to disable the default skin enforcement.
+```cm_heavy_model 1``` if you want to force heavy models on all of the players and ```cm_heavy_model 0``` stop using heavy models
 
 # Credits
 * Plugin Framework: CounterStrikeSharp by roflmuffin
