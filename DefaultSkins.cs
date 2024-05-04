@@ -113,7 +113,7 @@ public class DefaultSkins : BasePlugin
             }
             if ((CsTeam)player.TeamNum == CsTeam.Terrorist)
             {
-                SetModelNextServerFrame(player.PlayerPawn.Value, HeavySkins ? ModelPathTmHeavy : ModelPathCtmSas);
+                SetModelNextServerFrame(player.PlayerPawn.Value, HeavySkins ? ModelPathTmHeavy : ModelPathTmPhoenix);
             }
         }
         catch (Exception ex)
