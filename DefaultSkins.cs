@@ -9,7 +9,7 @@ public class DefaultSkins : BasePlugin
 {
     public override string ModuleName => "CMod Default Skins";
     public override string ModuleAuthor => "Christopher Teljstedt @ Challengermode";
-    public override string ModuleVersion => "0.0.3";
+    public override string ModuleVersion => "0.0.4";
 
 
     public static readonly string ModelPathCtmHeavy = "characters\\models\\ctm_heavy\\ctm_heavy.vmdl";
